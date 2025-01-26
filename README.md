@@ -1,4 +1,11 @@
-## Hi there 👋
+## About  Me
+
+- Don Wong
+- 📍 I'm currently studying at Abingdon School
+- 📍 I'm from Hong Kong
+- 🌱 I’m currently learning Java for building Android Apps
+- 💬 Ask me about Basic Linux (It's the first thing I touched weird enough)
+- 😄 Pronouns: he/him
 
 <!--
 **DonWongSolutions/DonWongSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
